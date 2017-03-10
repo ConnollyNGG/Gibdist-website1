@@ -1,0 +1,980 @@
+<!DOCTYPE html>
+<!--[if lte IE 8]>         <html lang="en-US" class="lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en-US"> <!--<![endif]-->
+
+<!-- Mirrored from www.gibdist.net/parsons-elementary/pto/pto-meeting-agenda by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Mar 2017 01:26:39 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+	<meta charset="utf-8">
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"87d38be11c","applicationID":"11580779","transactionName":"JVgLEhBaXg4BSxgTWQFSFkkKVFwGCFxoEFQTUA==","queueTime":0,"applicationTime":1286,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwMPVVVUGwIBUVlSAAYO"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("../../index.html")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+	<title>PTO  Meeting Agenda - GIBRALTAR SCHOOL DISCTRICT</title>
+		<link rel="icon" href="../../uploaded/favicon.ico">
+	<meta name="description" content="PTO  Meeting Agenda - GIBRALTAR SCHOOL DISCTRICT">
+	<meta name="keywords" content="PTO  Meeting Agenda, GIBRALTAR SCHOOL DISCTRICT">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		
+			<link rel="canonical" href="pto-meeting-agenda.html">
+			<meta property="og:url" content="http://www.gibdist.net/parsons-elementary/pto/pto-meeting-agenda">
+		<meta property="og:description" content="PTO  Meeting Agenda - GIBRALTAR SCHOOL DISCTRICT">
+	<meta property="og:title" content="PTO  Meeting Agenda - GIBRALTAR SCHOOL DISCTRICT">
+	<meta property="og:type" content="website">
+
+	<link rel="stylesheet" media="all" href="../../../static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css" />
+
+	
+
+	<!-- CF Styles Manager -->
+	<link href="../../styles92eb.css?b" media="screen" rel="stylesheet">
+
+		<link rel="stylesheet" media="all" href="../../uploaded/themes/default/css/main051a.css?1480707886" />
+
+	<script src="../../../static.finalsite.net/assets/in_layout_head-17790e84d6a6c54aba7c668213c3a1a11c0783f84fa6708487a7958e349545fb.js"></script>
+
+		<script src="../../../use.typekit.net/lkr7hqy.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet">
+		
+
+	<script type="text/javascript">
+		(function(window) {
+			window.FS.currentPage = {
+				dateFormat: 'md',
+				timeFormat: '12'
+			}
+		})(window);
+	</script>
+
+	
+</head>
+<body data-logged-in="false" data-pageid="449" class="fsHasHeader fsHasMenu fsHasRightBanner fsHasFooter fsHasOneColumnLayout fsSection195 fsHasTheme7">
+
+		<script>
+			dataLayer = [{ 'schoolDomain': 'www.gibdist.net' }];
+				dataLayer.push({'uaID': 'UA-7829694-1' });
+
+		</script>
+
+    <noscript>
+      <iframe src="http://www.googletagmanager.com/ns.html?id=GTM-P3BGC7"
+        height="0" width="0" style="display:none;visibility:hidden">
+      </iframe>
+    </noscript>
+    <script>
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          '../../../www.googletagmanager.com/gtm5445.html?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P3BGC7');
+    </script>
+
+
+<div id="fsPageWrapper">
+
+
+
+				<div id="fsMenu">
+					<div class=" fsMenu fsStyleAutoclear" id="fsEl_493" >
+
+			<div class="fsElement fsContent" id="fsEl_1048" >
+
+			<div class="fsElementContent">
+    	<div class="mobile-search">
+	<form method="get" action="http://www.gibdist.net/search-results">
+      	<button type="submit"></button>
+		<input type="text" name="q" placeholder="What are you looking for?">
+	</form>
+</div>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList mobile-main" id="fsEl_494" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a href="../../about.html">About</a>
+	</li>
+	<li>
+		<a href="../../academics.html">Academics</a>
+	</li>
+	<li>
+		<a href="../../arts.html">Arts</a>
+	</li>
+	<li>
+		<a href="../../athletics.html">Athletics</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList mobile-util" id="fsEl_1050" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a href="../../parents.html">Parents</a>
+	</li>
+	<li>
+		<a href="../../students.html"> Students</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList mobile-quicklinks" id="fsEl_1051" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li class="fsNavParentPage">
+		<a href="../../quicklinks.html">Quicklinks</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a target="_blank" href="https://sisweb.resa.net/Gibraltar/ParentConnect/login.aspx">MISTAR ParentPortal</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://sisweb.resa.net/Gibraltar/StudentConnect/login.aspx">MISTAR StudentPortal</a>
+	</li>
+	<li>
+		<a target="_blank" href="http://gibdist.nutrislice.com/">Lunch Menus</a>
+	</li>
+	<li>
+		<a href="../../calendar.html">Calendar</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList mobile-district" id="fsEl_1052" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li class="fsNavParentPage">
+		<a href="../../our-schools.html">Our Schools</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../carlson-high.html">Carlson High</a>
+	</li>
+	<li>
+		<a href="../../shumate-middle.html">Shumate Middle</a>
+	</li>
+	<li>
+		<a href="../../chapman-elementary.html">Chapman Elementary</a>
+	</li>
+	<li>
+		<a href="../../hunter-elementary.html">Hunter Elementary</a>
+	</li>
+	<li>
+		<a href="../../parsons-elementary.html">Parsons Elementary</a>
+	</li>
+	<li>
+		<a href="../../weiss-elementary.html">Weiss Elementary</a>
+	</li>
+	<li>
+		<a href="../../downriver-high.html">Downriver High School</a>
+	</li>
+	<li>
+		<a href="../../lakeshore-virtual.html">Lakeshore Virtual</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+
+
+
+</div>
+
+
+				</div>
+
+			<header id="fsHeader">
+				<div class=" fsBanner district-header fsStyleAutoclear" id="fsEl_1546" >
+
+			<div class="fsElement fsContent" id="fsEl_1547" >
+
+			<div class="fsElementContent">
+    	<button class="drawer-trigger"></button>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContent site-info-container" id="fsEl_1548" >
+
+			<div class="fsElementContent">
+    	<a href="../../index.html" data-page-name="District Home"><img title="logo" width="35" src="../../uploaded/themes/default/images/gibs_logo.png"></a>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList nav-main" id="fsEl_1549" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li class="fsNavParentPage">
+		<a href="../../about.html">About</a>
+			<div class="fsNavPageInfo">
+					<div class="fsNavPageDescription"><strong>Dedicated to Excellence</strong><br>We strive to provide the best educational experience for all students that provides them with the opportunity to be successful in life.</div>
+
+					<div class="fsNavPageThumbnail"><img src="../../uploaded/photos/Menu_Pics/Grad2016-288x288.jpg"></div>
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../about/about-gibraltar-school-district.html">About Gibraltar</a>
+	</li>
+	<li>
+		<a href="../../about/board-of-education.html">Board of Education</a>
+	</li>
+	<li>
+		<a href="../../about/departments.html">Departments</a>
+	</li>
+	<li>
+		<a href="../../about/district-documents.html">District Documents</a>
+	</li>
+	<li>
+		<a href="../../about/district-notices-and-reports.html">District Notices and Reports</a>
+	</li>
+	<li>
+		<a href="../../about/employment.html">Employment</a>
+	</li>
+	<li>
+		<a href="../../about/news-notes.html">News and Notes</a>
+	</li>
+	<li>
+		<a href="../../about/register-students.html">Register Students</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+	<li class="fsNavParentPage">
+		<a href="../../academics.html">Academics</a>
+			<div class="fsNavPageInfo">
+					<div class="fsNavPageDescription"><strong>Curriculum Opportunities</strong><br>We offer a rigorous curriculum in a learning environment that enhances the learning experience with relevant and meaningful experiences.</div>
+
+					<div class="fsNavPageThumbnail"><img src="../../uploaded/photos/Menu_Pics/Robotics-288x288.jpg"></div>
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../about/departments/curriculum.html">Curriculum Department</a>
+	</li>
+	<li>
+		<a href="../../about/district-notices-and-reports/annual-reports.html">Annual Reports</a>
+	</li>
+	<li>
+		<a href="../../carlson-high/counseling-center.html">Counseling Center</a>
+	</li>
+	<li>
+		<a href="../../academics/online-learning.html">Online learning</a>
+	</li>
+	<li>
+		<a href="../../about/district-notices-and-reports/school-improvement-plans.html">School Improvement</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+	<li class="fsNavParentPage">
+		<a href="../../arts.html">Arts</a>
+			<div class="fsNavPageInfo">
+					<div class="fsNavPageDescription"><strong>Creative Opportunities</strong><br>We offer many opportunities for students to explore and enrich their creative talents.</div>
+
+					<div class="fsNavPageThumbnail"><img src="../../uploaded/photos/Menu_Pics/Arts-288x288.jpg"></div>
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../arts/band.html">Band</a>
+	</li>
+	<li>
+		<a href="../../arts/carlson-digital-media.html">Carlson Digital Media</a>
+	</li>
+	<li>
+		<a href="../../arts/carlson-fine-arts.html">Carlson Fine Arts</a>
+	</li>
+	<li>
+		<a target="_blank" href="http://www.instagram.com/carlsonartists">Student Work Showcase</a>
+	</li>
+	<li>
+		<a href="../../arts/whats-happening.html">What&#39;s Happening</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+	<li class="fsNavParentPage">
+		<a href="../../athletics.html">Athletics</a>
+			<div class="fsNavPageInfo">
+					<div class="fsNavPageDescription"><strong>Athletic Opportunities</strong><br>We offer a wide variety of competitive athletics as well providing exemplary facilities.</div>
+
+					<div class="fsNavPageThumbnail"><img src="../../uploaded/photos/Menu_Pics/Volleyball-288x288.jpg"></div>
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../athletics/high-school-sports.html">High School Sports</a>
+	</li>
+	<li>
+		<a href="../../athletics/middle-school-sports.html">Middle School Sports</a>
+	</li>
+	<li>
+		<a href="../../athletics/athletic-forms.html">Athletic Forms</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList nav-utility-hdr" id="fsEl_1550" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a href="../../parents.html">Parents</a>
+	</li>
+	<li>
+		<a href="../../students.html"> Students</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList quicklinks-nav" id="fsEl_1551" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li class="fsNavParentPage">
+		<a href="../../quicklinks.html">Quicklinks</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a target="_blank" href="https://sisweb.resa.net/Gibraltar/ParentConnect/login.aspx">MISTAR ParentPortal</a>
+	</li>
+	<li>
+		<a target="_blank" href="https://sisweb.resa.net/Gibraltar/StudentConnect/login.aspx">MISTAR StudentPortal</a>
+	</li>
+	<li>
+		<a target="_blank" href="http://gibdist.nutrislice.com/">Lunch Menus</a>
+	</li>
+	<li>
+		<a href="../../calendar.html">Calendar</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContent search-container" id="fsEl_1552" >
+
+			<div class="fsElementContent">
+    	<div class="top-search">
+	<form method="get" action="http://www.gibdist.net/search-results">
+		<input type="text" name="q" placeholder="What are you looking for?">
+		<button class="search-btn" type="submit"></button>
+	</form>
+  	<button class="open-search"></button>
+</div>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContainer district-info" id="fsEl_1553" >
+
+			<div class="fsElementContent">
+    	<div class="fsElement fsContent district-logo" id="fsEl_1554" >
+
+			<div class="fsElementContent">
+    	<a href="../../fs/pages/286" data-page-name="Parsons Elementary"><img src="../../uploaded/themes/default/images/parsons.png" width="400"></a>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList district-nav" id="fsEl_1555" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li class="fsNavParentPage">
+		<a href="../../our-schools.html">Our Schools</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="../../carlson-high.html">Carlson High</a>
+	</li>
+	<li>
+		<a href="../../shumate-middle.html">Shumate Middle</a>
+	</li>
+	<li>
+		<a href="../../chapman-elementary.html">Chapman Elementary</a>
+	</li>
+	<li>
+		<a href="../../hunter-elementary.html">Hunter Elementary</a>
+	</li>
+	<li>
+		<a href="../../parsons-elementary.html">Parsons Elementary</a>
+	</li>
+	<li>
+		<a href="../../weiss-elementary.html">Weiss Elementary</a>
+	</li>
+	<li>
+		<a href="../../downriver-high.html">Downriver High School</a>
+	</li>
+	<li>
+		<a href="../../lakeshore-virtual.html">Lakeshore Virtual</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContent choose-gsd" id="fsEl_1556" >
+
+			<div class="fsElementContent">
+    	<p><a href="../../fs/pages/402" data-page-name="Register Students">Choose GSD</a></p>
+
+</div>
+
+
+	</div>
+
+
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsMedia fsPlayer header-image" id="fsEl_1838" >
+
+			<div class="fsElementContent">
+    <div class="fsMediaContainer fsMediaCustomPlayer" data-playlisturl="/cf_endpoints/routes.cfm/media/groups/95/objects.json" data-aspectratio="0.5625" data-playercontrols="0" data-playlistid="95" data-posterscaling="0" data-videoresolution="" data-autoplay="false" data-loop="false" data-randomstart="true">
+</div>
+
+</div>
+
+
+	</div>
+	<section class="fsElement fsNavigation fsList nav-sub" id="fsEl_1691" >
+
+				<header>
+			<h2 class="fsElementTitle">In This Section</h2>
+	</header>
+<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a href="../about-parsons.html">About Parsons</a>
+	</li>
+	<li>
+		<a href="../calendar.html">Calendar</a>
+	</li>
+	<li>
+		<a href="../important-documents.html">Important Documents</a>
+	</li>
+	<li>
+		<a href="../about-the-principal.html">Meet the Principal</a>
+	</li>
+	<li>
+		<a href="../newsletters.html">News &amp; Notes</a>
+	</li>
+	<li class="fsNavParentPage fsNavCurrentPageAncestor">
+		<a href="../pto.html">PTO</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="running-club.html">Running Club</a>
+	</li>
+	<li>
+		<a href="parsons-pto-remind-text-reminders-sign-up.html">Parsons PTO Remind Text Reminders Sign Up</a>
+	</li>
+	<li>
+		<a href="pto-events.html">PTO Events</a>
+	</li>
+	<li class="fsNavCurrentPage">
+		<a href="pto-meeting-agenda.html">PTO  Meeting Agenda</a>
+	</li>
+	<li>
+		<a href="pto-minutes.html">PTO Minutes</a>
+	</li>
+	<li>
+		<a href="pto-general-information-schedule.html">PTO General Information Schedule </a>
+	</li>
+	<li>
+		<a href="treasurer-reports.html">Treasurer Reports</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+	<li>
+		<a href="../staff-information.html">Staff Information</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</section>
+
+
+
+</div>
+
+
+			</header>
+
+		<div id="fsPageBodyWrapper">
+			<div id="fsPageBody" class="fsStyleAutoclear">
+
+				<main id="fsPageContent">
+							<h1 class="fsPageTitle">PTO  Meeting Agenda</h1>
+
+
+
+
+							<div class="fsPageLayout fsLayout fsOneColumnLayout fsStyleAutoclear" id="fsEl_2148" >
+
+				<div class=" fsDiv fsStyleAutoclear" id="fsEl_2149" >
+
+				<div class="fsElement fsContent" id="fsEl_2150" >
+
+			<div class="fsElementContent">
+    	<p>Parsons PTO Meeting Agenda</p>
+		 
+		<a href="../../uploaded/Parsons_Elementary/PTO_Mtg_agenda_12-12-16.pdf" data-file-name="PTO_Mtg_agenda_12-12-16.pdf">December 2016 PTO Meeting Agenda</a>
+
+</div>
+
+
+	</div>
+
+
+
+
+	</div>
+
+
+
+
+	</div>
+
+
+
+				</main>
+					<div id="fsBannerRight">
+						<div class=" fsBanner fsStyleAutoclear" id="fsEl_2900" >
+
+			<div class="fsElement fsNavigation fsList nav-sub" id="fsEl_2901" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a href="../about-parsons.html">About Parsons</a>
+	</li>
+	<li>
+		<a href="../calendar.html">Calendar</a>
+	</li>
+	<li>
+		<a href="../important-documents.html">Important Documents</a>
+	</li>
+	<li>
+		<a href="../about-the-principal.html">Meet the Principal</a>
+	</li>
+	<li>
+		<a href="../newsletters.html">News &amp; Notes</a>
+	</li>
+	<li class="fsNavParentPage fsNavCurrentPageAncestor">
+		<a href="../pto.html">PTO</a>
+			<div class="fsNavPageInfo">
+
+
+					<ul class="fsNavLevel2">
+							<li>
+		<a href="running-club.html">Running Club</a>
+	</li>
+	<li>
+		<a href="parsons-pto-remind-text-reminders-sign-up.html">Parsons PTO Remind Text Reminders Sign Up</a>
+	</li>
+	<li>
+		<a href="pto-events.html">PTO Events</a>
+	</li>
+	<li class="fsNavCurrentPage">
+		<a href="pto-meeting-agenda.html">PTO  Meeting Agenda</a>
+	</li>
+	<li>
+		<a href="pto-minutes.html">PTO Minutes</a>
+	</li>
+	<li>
+		<a href="pto-general-information-schedule.html">PTO General Information Schedule </a>
+	</li>
+	<li>
+		<a href="treasurer-reports.html">Treasurer Reports</a>
+	</li>
+
+					</ul>
+			</div>
+	</li>
+	<li>
+		<a href="../staff-information.html">Staff Information</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContent" id="fsEl_2974" >
+
+			<div class="fsElementContent">
+    	<p><img alt="2nd Grade students all pull strings from the center point as a part of a STEM activity." title="STEM Activities begin at Parsons Elementary" width="480" src="../../../gibdistnet.finalsite.com/uploaded/photos/Parsons/ParsonsSTEM.jpg"></p><p>We are very excited to announce that STEM education classes have begun for all of our students. If you have any questions or concerns about our school or the curriculum, please do not hesitate to contact Mrs. Villa @ <a href="tel:(734)%20379-7052" target="_blank" value="+17343797052" style="background-color: rgb(255, 255, 255);">734-379-7052</a>. </p>
+
+</div>
+
+
+	</div>
+	<section class="fsElement fsNews fsList right-news fsItemCount_2 fsThumbnailOriginal fsThumbnailSmall" id="fsEl_2903" >
+
+				<header>
+			<h2 class="fsElementTitle">News</h2>
+	</header>
+<div class="fsElementContent">
+    
+		<div class="fsElementEmpty">There are no  news posts to display</div>
+
+</div>
+	<footer>
+		<div class="fsElementFooterContent">
+			<a href="#" class="view-all fs_style_23" data-page-name="Please select a site page">View All News</a>
+		</div>
+	</footer>
+
+
+	</section>
+	<section class="fsElement fsCalendar fsList fsItemCount_5" id="fsEl_2904" data-calendar-ids=352,354 data-display-group-calendars=true>
+
+				<header>
+			<h2 class="fsElementTitle">Calendar</h2>
+	</header>
+<div class="fsElementContent">
+    	
+    
+        <div class="fsListItems">
+                    <div class="fsDayContainer">
+			<article  >
+				<time datetime="2017-03-09T15:50:00-06:00" class="fsDate"><span class="fsDayName">Thu</span><span class="fsSeparator"> -</span> <span class="fsMonth">March</span> <span class="fsDay"> 09</span> <span class="fsSeparator">,</span> <span class="fsYear"> 2017</span></time>
+		<div class="fsTitle">
+				
+						<a class="fsCalendarEventLink" data-occur-id="5489" href="#">Run Club</a>
+		</div>
+		<div class="fsEventDetails">
+					<div class="fsTimeRange">
+							<time datetime="2017-03-09T15:50:00-06:00" class="fsStartTime"><span class="fsHour"> 3</span>:<span class="fsMinute">50</span> <span class="fsMeridian">PM</span></time>
+									<span class="fsTimeSeperator"> - </span>
+									<time datetime="2017-03-09T16:20:00-06:00" class="fsEndTime"><span class="fsHour"> 4</span>:<span class="fsMinute">20</span> <span class="fsMeridian">PM</span></time>
+					</div>
+		</div>
+				<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="5489" href="#">More Info</a>
+</article>
+
+			<article  >
+				<time datetime="2017-03-09T19:00:00-06:00" class="fsDate"><span class="fsDayName">Thu</span><span class="fsSeparator"> -</span> <span class="fsMonth">March</span> <span class="fsDay"> 09</span> <span class="fsSeparator">,</span> <span class="fsYear"> 2017</span></time>
+		<div class="fsTitle">
+				
+						<a class="fsCalendarEventLink" data-occur-id="5525" href="#">Board of Education Meeting</a>
+		</div>
+		<div class="fsEventDetails">
+					<div class="fsTimeRange">
+							<time datetime="2017-03-09T19:00:00-06:00" class="fsStartTime"><span class="fsHour"> 7</span>:<span class="fsMinute">00</span> <span class="fsMeridian">PM</span></time>
+					</div>
+					<div class="fsLocation">Board Office</div>
+		</div>
+				<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="5525" href="#">More Info</a>
+</article>
+
+</div>
+
+
+                    <div class="fsDayContainer">
+			<article  >
+				<time datetime="2017-03-14T08:00:00-05:00" class="fsDate"><span class="fsDayName">Tue</span><span class="fsSeparator"> -</span> <span class="fsMonth">March</span> <span class="fsDay"> 14</span> <span class="fsSeparator">,</span> <span class="fsYear"> 2017</span></time>
+		<div class="fsTitle">
+				
+						<a class="fsCalendarEventLink" data-occur-id="5485" href="#">Run Club </a>
+		</div>
+		<div class="fsEventDetails">
+					<div class="fsTimeRange">
+							<time datetime="2017-03-14T08:00:00-05:00" class="fsStartTime"><span class="fsHour"> 8</span>:<span class="fsMinute">00</span> <span class="fsMeridian">AM</span></time>
+									<span class="fsTimeSeperator"> - </span>
+									<time datetime="2017-03-14T08:30:00-05:00" class="fsEndTime"><span class="fsHour"> 8</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+					</div>
+		</div>
+				<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="5485" href="#">More Info</a>
+</article>
+
+</div>
+
+
+                    <div class="fsDayContainer">
+			<article  >
+				<time datetime="2017-03-16T15:50:00-05:00" class="fsDate"><span class="fsDayName">Thu</span><span class="fsSeparator"> -</span> <span class="fsMonth">March</span> <span class="fsDay"> 16</span> <span class="fsSeparator">,</span> <span class="fsYear"> 2017</span></time>
+		<div class="fsTitle">
+				
+						<a class="fsCalendarEventLink" data-occur-id="5490" href="#">Run Club</a>
+		</div>
+		<div class="fsEventDetails">
+					<div class="fsTimeRange">
+							<time datetime="2017-03-16T15:50:00-05:00" class="fsStartTime"><span class="fsHour"> 3</span>:<span class="fsMinute">50</span> <span class="fsMeridian">PM</span></time>
+									<span class="fsTimeSeperator"> - </span>
+									<time datetime="2017-03-16T16:20:00-05:00" class="fsEndTime"><span class="fsHour"> 4</span>:<span class="fsMinute">20</span> <span class="fsMeridian">PM</span></time>
+					</div>
+		</div>
+				<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="5490" href="#">More Info</a>
+</article>
+
+</div>
+
+
+                    <div class="fsDayContainer">
+			<article  >
+				<time datetime="2017-03-21T08:00:00-05:00" class="fsDate"><span class="fsDayName">Tue</span><span class="fsSeparator"> -</span> <span class="fsMonth">March</span> <span class="fsDay"> 21</span> <span class="fsSeparator">,</span> <span class="fsYear"> 2017</span></time>
+		<div class="fsTitle">
+				
+						<a class="fsCalendarEventLink" data-occur-id="5486" href="#">Run Club</a>
+		</div>
+		<div class="fsEventDetails">
+					<div class="fsTimeRange">
+							<time datetime="2017-03-21T08:00:00-05:00" class="fsStartTime"><span class="fsHour"> 8</span>:<span class="fsMinute">00</span> <span class="fsMeridian">AM</span></time>
+									<span class="fsTimeSeperator"> - </span>
+									<time datetime="2017-03-21T08:30:00-05:00" class="fsEndTime"><span class="fsHour"> 8</span>:<span class="fsMinute">30</span> <span class="fsMeridian">AM</span></time>
+					</div>
+		</div>
+				<a class="fsCalendarEventLink fsReadMoreLink" data-occur-id="5486" href="#">More Info</a>
+</article>
+
+</div>
+
+
+        </div>
+
+</div>
+	<footer>
+		<div class="fsElementFooterContent">
+			<a href="../calendar.html" class="view-all fs_style_23" data-page-name="Calendar">View All Events</a>
+		</div>
+	</footer>
+
+
+	</section>
+
+
+
+</div>
+
+
+					</div>
+			</div>
+		</div>
+
+			<footer id="fsFooter">
+				<div class=" fsBanner fsStyleAutoclear" id="fsEl_9" >
+
+			<div class="fsElement fsContainer address-container" id="fsEl_701" >
+
+			<div class="fsElementContent">
+    	<div class="fsElement fsContent school-details-container" id="fsEl_703" >
+
+			<div class="fsElementContent">
+    	<div itemtype="http://schema.org/EducationalOrganization" class="school-details">
+  <div itemprop="name">Gibraltar School District</div>
+  <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+    <span itemprop="streetAddress">19370 Vreeland Road</span>
+    <span itemprop="addressLocality">Woodhaven</span>,
+    <span itemprop="addressRegion">Michigan</span>
+    <span itemprop="postalCode">48183</span>
+  </div>
+  <div itemprop="telephone">734.379.6350</div>
+  <!--<div itemprop="fax">Fax: 777-777-7777</div>-->
+</div>
+
+</div>
+
+
+	</div>
+
+
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsContainer utility-container" id="fsEl_702" >
+
+			<div class="fsElementContent">
+    	<div class="fsElement fsNavigation fsList nav-social" id="fsEl_707" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a target="_blank" href="https://www.facebook.com/GibraltarSchoolDistrict/">Facebook</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+
+
+
+</div>
+
+
+	</div>
+	<div class="fsElement fsNavigation fsList nav-utility-ftr" id="fsEl_706" >
+
+			<div class="fsElementContent">
+    <nav>
+        <ul class="fsNavLevel1">
+            	<li>
+		<a target="_blank" href="../../about/about-gibraltar-school-district/administration.html">Contact</a>
+	</li>
+	<li>
+		<a target="_blank" href="../../map-directions.html">Map &amp; Directions</a>
+	</li>
+	<li>
+		<a href="../../site-map.html">Site Map</a>
+	</li>
+	<li>
+		<a href="../../privacy-policy.html">Privacy Policy</a>
+	</li>
+
+        </ul>
+</nav>
+
+</div>
+
+
+	</div>
+
+
+
+
+
+				<div id="fsPoweredByFinalsite">
+		<div>
+			<a href="http://www.finalsite.com/" target="_blank">Powered by Finalsite</a>
+		</div>
+	</div>
+
+</div>
+
+
+			</footer>
+
+
+
+</div>
+
+
+	<div id="fsPagePopDialogContent" hidden>
+			<article class="fsPagePop" data-id="36" data-reset-at="" data-visible-at="2017-03-09T11:55:00Z">
+				<h2 class="fsPagePopTitle">School is Open</h2>
+				<div class="fsPagePopMessage">
+					<p>UPDATE: Tonight's Board of Education meeting will take place at Shumate Middle School.</p>
+				</div>
+			</article>
+	</div>
+
+
+
+<script src="../../../static.finalsite.net/assets/application-21861241d0b10acfba6c96e8fd2b05bacb87a75236d9ce7589efc22cdd48c581.js"></script>
+
+	<script src="../../uploaded/themes/default/js/main051a.js?1480707886"></script>
+
+
+
+
+</body>
+<!-- Mirrored from www.gibdist.net/parsons-elementary/pto/pto-meeting-agenda by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 10 Mar 2017 01:26:39 GMT -->
+</html>

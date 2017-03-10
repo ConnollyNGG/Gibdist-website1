@@ -1,0 +1,732 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 09 Mar 2017 20:19:02 at http://www.gibdist.net +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.gibdist.net -O1 "C:\Users\Snowman\Desktop\Webpage\New folder\Gibdist" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:19:03	Warning: 	Note: due to www.gibdist.net remote robots.txt rules, links beginning with these path will be forbidden: /page.cfm, /cf_calendar/printpdf.cfm, /fs/post-manager, /production$, /production?, /production/~, /production/banners/left-banner$, /production/banners/left-banner?, /production/banners/left-banner/~, /production/banners/left-right-banners$, /production/banners/left-right-banners?, /production/banners/left-right-banners/~, /production/banners/right-banner$, /production/banners/right-banner?, /production/banners/right-banner/~, /production/banners$, /production/banners?, /production/banners/~, /parsons-elementary/production$, /parsons-elementary/production?, /parsons-elementary/production/~, /downriver-high/production$, /downriver-high/production?, /downriver-high/production/~, /lakeshore-virtual/production$, /lakeshore-virtual/production?, /lakeshore-virtual/production/~, /chapman-elementary/production$, /chapman-elementary/production?, /chapman-elementary/production/~, /hunter-elementary/production$, /hunter-elementary/production?, /hunter-elementary/production/~, /carlson-high/production$, /carlson-high/production?, /carlson-high/production/~, /weiss-elementary/production$, /weiss-elementary/production?, /weiss-elementary/production/~, /shumate-middle/production$, /shumate-middle/production?, /shumate-middle/production/~ (see in the options to disable this)
+20:19:24	Error: 	"Bad Request" (400) at link www.googletagmanager.com/gtm.js?id= (from www.gibdist.net/)
+20:20:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle (from www.gibdist.net/)
+20:20:02	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/chapman-elementary (from www.gibdist.net/)
+20:20:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/lakeshore-virtual (from www.gibdist.net/)
+20:20:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/images/gibs_logo.png (from www.gibdist.net/)
+20:21:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/academics/online-learning (from www.gibdist.net/)
+20:21:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/arts/carlson-digital-media (from www.gibdist.net/)
+20:21:50	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/arts/carlson-fine-arts (from www.gibdist.net/)
+20:22:18	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/images/mi_school_hover.png (from www.gibdist.net/)
+20:22:18	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/photos/Home_Page/Robotics-Home.jpg (from www.gibdist.net/)
+20:23:26	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_ffffff_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:26	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_D5D8DC_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:27	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_e6e8eb_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:27	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_c4c9cf_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:27	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_979CA2_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:28	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_55_eeeeee_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:29	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_55_b94a48_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:31	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_149bc7_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:33	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_999999_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:33	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_70b2e1_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:35	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_3383bb_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:37	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_454545_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:38	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-icons_ffffff_256x240.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:39	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_0_3F454B_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:40	Error: 	"Not Found" (404) at link static.finalsite.net/assets/images/ui-bg_flat_100_333_40x100.png (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:43	Warning: 	Retry after error -4 (No data (connection closed)) at link static.finalsite.net/assets/lato/lato_regular-webfont-36fbb94216814c05554881fa3439a8b410f6db799554c301881c6289e4966663.eot (from static.finalsite.net/assets/application-7ed355b7f8aee7dbec9d14e2e0e4a05ce3306f3ac7534a8133fd223a8d726a6c.css)
+20:23:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/business-finance (from www.gibdist.net/about)
+20:23:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/champions-preschool (from www.gibdist.net/about)
+20:24:18	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/transportation (from www.gibdist.net/about)
+20:24:19	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/register-students/school-of-choice (from www.gibdist.net/about)
+20:24:52	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/middle-school-sports/winter-season (from www.gibdist.net/athletics)
+20:24:56	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/832
+20:24:56	Warning: 	File has moved from www.gibdist.net/fs/pages/832 to http://www.gibdist.net/calendar/fundraising-calendar
+20:24:57	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/279 (from www.gibdist.net/carlson-high)
+20:24:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/career-exploration (from www.gibdist.net/carlson-high)
+20:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/financial-aid (from www.gibdist.net/carlson-high)
+20:25:00	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/forms (from www.gibdist.net/carlson-high)
+20:25:01	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/graduation (from www.gibdist.net/carlson-high)
+20:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/student-sites (from www.gibdist.net/carlson-high)
+20:25:11	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/counseling-center/testing (from www.gibdist.net/carlson-high)
+20:25:13	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/extra-curricular-activities (from www.gibdist.net/carlson-high)
+20:25:15	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/hall-of-fame (from www.gibdist.net/carlson-high)
+20:25:21	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/hall-of-fame/nomination-packets (from www.gibdist.net/carlson-high)
+20:25:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/news-notes (from www.gibdist.net/carlson-high)
+20:25:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/carlson-high/staff-information (from www.gibdist.net/carlson-high)
+20:25:23	Error: 	"Not Found" (404) at link www.gibdist.net/MarchYearbookOrderForm-Student.pdf (from www.gibdist.net/carlson-high)
+20:25:23	Error: 	"Not Found" (404) at link www.gibdist.net/Important Documents/2017 Senior Ad Flyer.pdf (from www.gibdist.net/carlson-high)
+20:25:23	Error: 	"Not Found" (404) at link www.gibdist.net/news-notes/Direct College Letter.pdf (from www.gibdist.net/carlson-high)
+20:25:24	Error: 	"Not Found" (404) at link www.gibdist.net/our-district/documents/GSD Activity Fee Payment.pdf (from www.gibdist.net/carlson-high)
+20:25:24	Error: 	"Not Found" (404) at link www.gibdist.net/Pay For It Instructions.pdf (from www.gibdist.net/carlson-high)
+20:25:49	Error: 	Exit requested by shell or user
+20:25:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/hunter-elementary/principals-page/pbis (from www.gibdist.net/hunter-elementary)
+20:25:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/hunter-elementary/principals-page/school-improvement (from www.gibdist.net/hunter-elementary)
+20:25:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/hunter-elementary/calendar (from www.gibdist.net/hunter-elementary)
+20:25:51	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/hunter-elementary/resources (from www.gibdist.net/hunter-elementary)
+20:25:51	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:51	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:25:51	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/587
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:25:53	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/js/main.js?1480707878 (from www.gibdist.net/hunter-elementary)
+20:25:53	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/css/main.css?1480707886 (from www.gibdist.net/parsons-elementary)
+20:25:53	Warning: 	Moved Permanently for www.gibdist.net/fs/pages/286
+20:25:53	Warning: 	File has moved from www.gibdist.net/fs/pages/286 to http://www.gibdist.net/parsons-elementary
+20:25:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:25:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:25:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:54	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/about-parsons/pbis (from www.gibdist.net/parsons-elementary)
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/newsletters (from www.gibdist.net/parsons-elementary)
+20:25:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/pto (from www.gibdist.net/parsons-elementary)
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:55	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/pto/parsons-pto-remind-text-reminders-sign-up (from www.gibdist.net/parsons-elementary)
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/pto/pto-meeting-agenda (from www.gibdist.net/parsons-elementary)
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Parsons_Elementary/pto-schedule
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/pto/treasurer-reports (from www.gibdist.net/parsons-elementary)
+20:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/parsons-elementary/staff-information (from www.gibdist.net/parsons-elementary)
+20:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/js/main.js?1480707886 (from www.gibdist.net/parsons-elementary)
+20:25:56	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/themes/default/css/main.css?1480707895 (from www.gibdist.net/weiss-elementary)
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/617
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:56	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:57	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/weiss-elementary/important-documents (from www.gibdist.net/weiss-elementary)
+20:25:57	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/weiss-elementary/important-documents/anti-harassment-and-bullying-policies (from www.gibdist.net/weiss-elementary)
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Weiss_Elementary/suggested-supply-lists
+20:25:57	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:58	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/weiss-elementary/important-documents/the-walking-track (from www.gibdist.net/weiss-elementary)
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:59	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/weiss-elementary/pto/pto-minutes-2016-2017 (from www.gibdist.net/weiss-elementary)
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:25:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:00	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/284 (from www.gibdist.net/downriver-high)
+20:26:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/themes/default/css/main.css?1480707882
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/283
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/647
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/646
+20:26:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/themes/default/js/main.js?1480707882
+20:26:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/champions-preschool/locations-contact-infomation (from www.gibdist.net/about/departments)
+20:26:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/champions-preschool/rates (from www.gibdist.net/about/departments)
+20:26:03	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/champions-preschool/how-to-enroll (from www.gibdist.net/about/departments)
+20:26:03	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:03	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:03	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:03	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:04	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:04	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/special-education/parent-information (from www.gibdist.net/about/departments)
+20:26:04	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/about/departments/special-education/specific-links (from www.gibdist.net/about/departments)
+20:26:04	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:04	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:05	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/393
+20:26:05	Warning: 	File has moved from www.gibdist.net/fs/pages/393 to http://www.gibdist.net/about/departments/school-nurse
+20:26:05	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:05	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/our-district/departments/technology/technology-plan-2014-2017 (from www.gibdist.net/about/district-notices-and-reports/school-improvement-plans)
+20:26:05	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:06	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:06	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/680
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/681
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/676
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/678
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/679
+20:26:07	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:08	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/fundraising (from www.gibdist.net/athletics/high-school-sports)
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Athletics/photos/Carlson_1348_122_-2.jpeg
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/685
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/687
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/689
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/691
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/693
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/694
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/695
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/697
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/699
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/700
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/701
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/702
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/703
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/704
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/705
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/706
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/707
+20:26:08	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/709
+20:26:09	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/league (from www.gibdist.net/athletics/high-school-sports)
+20:26:09	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:09	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:10	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:10	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/records (from www.gibdist.net/athletics/high-school-sports)
+20:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/schedule (from www.gibdist.net/athletics/high-school-sports)
+20:26:10	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/spring-trip (from www.gibdist.net/athletics/high-school-sports)
+20:26:10	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:10	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:11	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:11	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/carlson-uniforms (from www.gibdist.net/athletics/high-school-sports)
+20:26:11	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:11	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/496
+20:26:11	Warning: 	File has moved from www.gibdist.net/fs/pages/496 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball
+20:26:11	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:11	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:12	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:12	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:12	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:13	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:13	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/middle-school-sports/winter-season/competitive-cheer (from www.gibdist.net/athletics/middle-school-sports)
+20:26:13	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:13	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:13	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/athletics/middle-school-sports/spring-season/gendroj@gibdist.net
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/280
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/644
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/492
+20:26:14	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:15	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/395 (from www.gibdist.net/about/about-gibraltar-school-district/administration)
+20:26:15	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/photos/About/Board_of_Education/Board_of_Education_2017.jpg (from www.gibdist.net/about/board-of-education/board-members)
+20:26:15	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:15	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:15	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Asthma_Management_Plan.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:16	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Diabetes_Medical_Management_Plan.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:16	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Food_Allergy_Management_Plan.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:16	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Insect_Sting_Allergy_Management.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:16	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Seizure_Action_Plan.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:16	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/2014_-_Generic_Medical_Management_Plan.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:17	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/About/School_Nurse/When_to_keep_a_child_home_from_school.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:17	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/When_to_keep_a_child_home_from_school.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:17	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/EV68_Factsheet.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:17	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/EV68_Infographic.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:17	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Information_on_Influenza.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:18	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/Teen_Vaccine_Info_and_Requires_.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:18	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/State_of_Mich_mandated_concussion_form.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:18	Error: 	"Not Found" (404) at link www.gibdist.net/about/departments/2015_Repro_Health_Report_-_2_Year.pdf (from www.gibdist.net/about/departments/school-nurse)
+20:26:19	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:19	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:19	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:19	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image_preview
+20:26:20	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:20	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:20	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:20	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:21	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame/6-craig-smith (from www.gibdist.net/athletics/high-school-sports/boys-baseball)
+20:26:21	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:21	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame/7-dean-sisk (from www.gibdist.net/athletics/high-school-sports/boys-baseball)
+20:26:21	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:21	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:22	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:22	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:22	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame/12-kelly-mousseau (from www.gibdist.net/athletics/high-school-sports/boys-baseball)
+20:26:22	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame/12-kelly-scheffler (from www.gibdist.net/athletics/high-school-sports/boys-baseball)
+20:26:22	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:23	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:23	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:23	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:23	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/414 (from www.gibdist.net/athletics/middle-school-sports/fall-season)
+20:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/415 (from www.gibdist.net/athletics/middle-school-sports/fall-season)
+20:26:24	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/fs/pages/416 (from www.gibdist.net/athletics/middle-school-sports/fall-season)
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/419
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/422
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/421
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/420
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/423
+20:26:24	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:25	Warning: 	Moved Permanently for www.gibdist.net/fs/pages/279
+20:26:25	Warning: 	File has moved from www.gibdist.net/fs/pages/279 to http://www.gibdist.net/carlson-high
+20:26:25	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/MrsPalazzolo.JPG/image-preview (from www.gibdist.net/carlson-high/counseling-center/about-us)
+20:26:25	Warning: 	Moved Permanently for www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/KELLYPHOTO.jpg/image_preview
+20:26:25	Warning: 	File has moved from www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/KELLYPHOTO.jpg/image_preview to http://www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/KELLYPHOTO.jpg/image-preview
+20:26:25	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/KELLY PHOTO.jpg (from www.gibdist.net/carlson-high/counseling-center/about-us)
+20:26:25	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:25	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:26	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:26	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:26	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/Transcript Request.pdf (from www.gibdist.net/carlson-high/counseling-center/hs-timeline)
+20:26:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/scholarships (from www.gibdist.net/carlson-high/counseling-center/hs-timeline)
+20:26:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/CollegeVisitQuestionsHandout.pdf (from www.gibdist.net/carlson-high/counseling-center/post-hs-planning)
+20:26:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/all-michigan-colleges (from www.gibdist.net/carlson-high/counseling-center/post-hs-planning)
+20:26:26	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/uploaded/Schools/Carlson/Counseling/Course_Description_Guide_2017.pdf (from www.gibdist.net/carlson-high/counseling-center/scheduling-information)
+20:26:26	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:27	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:27	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:27	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:27	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/carlson-high/Parent_update_3-8-17.pdf
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/carlson-high/MikeSmithLetter.pdf
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/carlson-high/parent_update_2-7-17.pdf
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/carlson-high/parent_update_1-28-17.pdf
+20:26:28	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:29	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:29	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Shumate_Middle_School/image_large.png?6189
+20:26:30	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:30	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/about-shumate/child-absence (from www.gibdist.net/shumate-middle)
+20:26:30	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/about-shumate/material-list-2016-17 (from www.gibdist.net/shumate-middle)
+20:26:30	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:30	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:30	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/about-shumate/student-of-the-month (from www.gibdist.net/shumate-middle)
+20:26:31	Error: 	"Cancelled by User" (-1) at link www.gibdist.net/shumate-middle/departments (from www.gibdist.net/shumate-middle)
+20:26:31	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:31	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/schools/Shumate/sms-media-center/welcome-to-shumate-m.s-book-reviews
+20:26:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/departments/counselors-corner (from www.gibdist.net/shumate-middle)
+20:26:31	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:31	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/extra-curricular/anime-club (from www.gibdist.net/shumate-middle)
+20:26:31	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:31	Error: 	"Cancelled by User" (-1) at link www.gibdist.net/shumate-middle/extra-curricular/band (from www.gibdist.net/shumate-middle)
+20:26:32	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:32	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:32	Warning: 	Retry after error -4 (No data (connection closed)) at link www.gibdist.net/shumate-middle/extra-curricular/math-counts (from www.gibdist.net/shumate-middle)
+20:26:32	Error: 	"Cancelled by User" (-1) at link www.gibdist.net/shumate-middle/extra-curricular/njhs-1 (from www.gibdist.net/shumate-middle)
+20:26:32	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:33	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:33	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:33	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:33	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:34	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:34	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:34	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:34	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:34	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:35	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:35	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:35	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:35	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:36	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:37	Warning: 	 for www.gibdist.net/fs/pages/402
+20:26:37	Warning: 	File has moved from www.gibdist.net/fs/pages/402 to http://www.gibdist.net/about/register-students
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/fs/pages/589
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:37	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:26:38	Warning: 	 for www.gibdist.net/fs/pages/587
+20:26:38	Warning: 	File has moved from www.gibdist.net/fs/pages/587 to http://www.gibdist.net/hunter-elementary/principals-page/clubs/watch-dogs-dads-of-great-students
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:38	Warning: 	Moved Permanently for www.gibdist.net/fs/pages/616
+20:26:38	Warning: 	File has moved from www.gibdist.net/fs/pages/616 to http://www.gibdist.net/about/district-notices-and-reports/school-improvement-plans
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:38	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:39	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Parsons_Elementary/pto-schedule (from www.gibdist.net/parsons-elementary/pto/pto-general-information-schedule)
+20:26:39	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:40	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:40	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:40	Warning: 	File not added due to mirror cancel: www.gibdist.net/parsons-elementary/calendar
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:41	Warning: 	 for www.gibdist.net/fs/pages/617
+20:26:41	Warning: 	File has moved from www.gibdist.net/fs/pages/617 to http://www.gibdist.net/weiss-elementary/calendar
+20:26:41	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/459
+20:26:41	Warning: 	File has moved from www.gibdist.net/fs/pages/459 to http://www.gibdist.net/weiss-elementary/about-our-school/school-programs/green-school
+20:26:41	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/460
+20:26:41	Warning: 	File has moved from www.gibdist.net/fs/pages/460 to http://www.gibdist.net/weiss-elementary/about-our-school/school-programs/title-i-targeted-assistance-program
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:41	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:42	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Weiss_Elementary/suggested-supply-lists (from www.gibdist.net/weiss-elementary/important-documents/parent-resources)
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary
+20:26:42	Warning: 	File not added due to mirror cancel: www.google.com/cse/cse.js?cx=
+20:26:42	Warning: 	File not added due to mirror cancel: www.gibdist.net/weiss-elementary/school-news
+20:26:42	Warning: 	 for www.gibdist.net/fs/pages/284
+20:26:42	Warning: 	File has moved from www.gibdist.net/fs/pages/284 to http://www.gibdist.net/downriver-high
+20:26:43	Warning: 	 for www.gibdist.net/fs/pages/283
+20:26:43	Warning: 	File has moved from www.gibdist.net/fs/pages/283 to http://www.gibdist.net/lakeshore-virtual
+20:26:43	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:43	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:43	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:43	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:44	Warning: 	 for www.gibdist.net/fs/pages/647
+20:26:44	Warning: 	File has moved from www.gibdist.net/fs/pages/647 to http://www.gibdist.net/lakeshore-virtual/news
+20:26:44	Warning: 	 for www.gibdist.net/fs/pages/646
+20:26:44	Warning: 	File has moved from www.gibdist.net/fs/pages/646 to http://www.gibdist.net/lakeshore-virtual/calendar
+20:26:44	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:44	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:45	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:45	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:45	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:45	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:46	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:46	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/KIMG0177-2.jpg/image_preview
+20:26:46	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/KIMG0177-2.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/KIMG0177-2.jpg/image-preview
+20:26:46	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/photos/Pat Lancaster at HS AllStar Game.jpg/image_preview
+20:26:46	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/photos/Pat Lancaster at HS AllStar Game.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/photos/Pat Lancaster at HS AllStar Game.jpg/image-preview
+20:26:46	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/copy_of_IMG951614.jpg/image_preview
+20:26:46	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/copy_of_IMG951614.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/copy-of-IMG951614.jpg/image-preview
+20:26:46	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/Kyle Drew.jpg/image_preview
+20:26:46	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/Kyle Drew.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/Kyle Drew.jpg/image-preview
+20:26:46	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/photos/kyle f all star game.jpg (from www.gibdist.net/athletics/high-school-sports/boys-baseball/all-star-game)
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/680
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/680 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/zach-kohn
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/681
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/681 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/kyle-howard
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/676
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/676 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/john-schreiber
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/682
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/682 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/kyle-francek
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/677
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/677 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/jeremy-bagnall
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/678
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/678 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/pat-lancaster
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/679
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/679 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/shane-powell
+20:26:47	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/529
+20:26:47	Warning: 	File has moved from www.gibdist.net/fs/pages/529 to http://www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame/11-tracy-richardson
+20:26:47	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Athletics/photos/Carlson_1348_122_-2.jpeg (from www.gibdist.net/athletics/high-school-sports/boys-baseball/hall-of-fame)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/685 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/687 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/689 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/691 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/693 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/694 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/695 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/697 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/699 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/700 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/701 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/702 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/703 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/704 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/705 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/706 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/707 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/709 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/history)
+20:26:47	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Athletics/uc2014
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Athletics/UCinn2013.JPG
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Athletics/kings
+20:26:48	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:49	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:49	Error: 	"Not Found" (404) at link www.gibdist.net/athletics/middle-school-sports/spring-season/gendroj@gibdist.net (from www.gibdist.net/athletics/middle-school-sports/spring-season/boys-baseball)
+20:26:49	Warning: 	 for www.gibdist.net/fs/pages/280
+20:26:49	Warning: 	File has moved from www.gibdist.net/fs/pages/280 to http://www.gibdist.net/shumate-middle
+20:26:49	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/644
+20:26:49	Warning: 	File has moved from www.gibdist.net/fs/pages/644 to http://www.gibdist.net/shumate-middle/news-notes/news-notes-from-mrs-ferguson
+20:26:49	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/492
+20:26:49	Warning: 	File has moved from www.gibdist.net/fs/pages/492 to http://www.gibdist.net/shumate-middle/news-notes/shumate-squawk-newspaper
+20:26:49	Warning: 	 for www.gibdist.net/fs/pages/395
+20:26:49	Warning: 	File has moved from www.gibdist.net/fs/pages/395 to http://www.gibdist.net/about/departments/superintendents-office
+20:26:49	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image_preview
+20:26:49	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image-preview
+20:26:49	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard1.jpg/image_preview
+20:26:49	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard1.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard1.jpg/image-preview
+20:26:49	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:49	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:50	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:50	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/414
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/414 to http://www.gibdist.net/athletics/middle-school-sports/fall-season/cross-country
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/415
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/415 to http://www.gibdist.net/athletics/middle-school-sports/fall-season/football
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/416
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/416 to http://www.gibdist.net/athletics/middle-school-sports/fall-season/sideline-cheer
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/419
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/419 to http://www.gibdist.net/athletics/middle-school-sports/winter-season/boys-basketball
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/422
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/422 to http://www.gibdist.net/athletics/middle-school-sports/winter-season/boys-and-girls-swimming-and-diving
+20:26:51	Warning: 	 for www.gibdist.net/fs/pages/421
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/421 to http://www.gibdist.net/athletics/middle-school-sports/winter-season/competitive-cheer
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/420
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/420 to http://www.gibdist.net/athletics/middle-school-sports/winter-season/girls-basketball
+20:26:51	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/423
+20:26:51	Warning: 	File has moved from www.gibdist.net/fs/pages/423 to http://www.gibdist.net/athletics/middle-school-sports/winter-season/wrestling
+20:26:51	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/KELLYPHOTO.jpg/image-preview (from www.gibdist.net/gibdist/schools/Carlson/counseling-center/images/KELLYPHOTO.jpg/image_preview)
+20:26:51	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/scholarships (from www.gibdist.net/carlson-high/counseling-center/hs-timeline)
+20:26:51	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/CollegeVisitQuestionsHandout.pdf (from www.gibdist.net/carlson-high/counseling-center/post-hs-planning)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Carlson/counseling-center/all-michigan-colleges (from www.gibdist.net/carlson-high/counseling-center/post-hs-planning)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/carlson-high/Parent_update_3-8-17.pdf (from www.gibdist.net/carlson-high/news-notes)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/carlson-high/MikeSmithLetter.pdf (from www.gibdist.net/carlson-high/news-notes)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/carlson-high/Parent_Update_2-26-17.pdf (from www.gibdist.net/carlson-high/news-notes)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/carlson-high/parent_update_2-7-17.pdf (from www.gibdist.net/carlson-high/news-notes)
+20:26:52	Error: 	"Not Found" (404) at link www.gibdist.net/carlson-high/parent_update_1-28-17.pdf (from www.gibdist.net/carlson-high/news-notes)
+20:26:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:52	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:53	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/schools/Shumate/sms-media-center/welcome-to-shumate-m.s-book-reviews (from www.gibdist.net/shumate-middle/departments/library)
+20:26:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:53	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/520
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/520 to http://www.gibdist.net/shumate-middle/extra-curricular/anime-club
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/525
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/525 to http://www.gibdist.net/shumate-middle/extra-curricular/band
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/539
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/539 to http://www.gibdist.net/shumate-middle/extra-curricular/bible-club
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/541
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/541 to http://www.gibdist.net/shumate-middle/extra-curricular/copy-of-bowling-club
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/553
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/553 to http://www.gibdist.net/shumate-middle/extra-curricular/math-counts
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/550
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/550 to http://www.gibdist.net/shumate-middle/extra-curricular/astp
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/557
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/557 to http://www.gibdist.net/shumate-middle/extra-curricular/njhs-1
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/824
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/824 to http://www.gibdist.net/shumate-middle/extra-curricular/robotics
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/559
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/559 to http://www.gibdist.net/shumate-middle/extra-curricular/student-council
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/561
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/561 to http://www.gibdist.net/shumate-middle/extra-curricular/yearbook
+20:26:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/shumate-middle/extra-curricular/Shumate_Middle_School_Anime_Club.pdf
+20:26:54	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/654
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/654 to http://www.gibdist.net/shumate-middle/important-documents/anti-harassment-and-bullying-policies
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/655
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/655 to http://www.gibdist.net/shumate-middle/important-documents/electronic-form-networkinternet-user-agreement
+20:26:54	Warning: 	Moved Temporarily for www.gibdist.net/fs/pages/656
+20:26:54	Warning: 	File has moved from www.gibdist.net/fs/pages/656 to http://www.gibdist.net/shumate-middle/important-documents/photo-permission
+20:26:54	Error: 	"Not Found" (404) at link www.gibdist.net/shumate-middle/Shumate_Drill_Form_.pdf (from www.gibdist.net/shumate-middle/important-documents)
+20:26:55	Error: 	"Not Found" (404) at link www.gibdist.net/fs/pages/589 (from www.gibdist.net/hunter-elementary/principals-page/pbis)
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/hunter_elementary_school/watch_dogs.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/feed/atom
+20:26:55	Warning: 	File not added due to mirror cancel: https://www.google.com/a/gibdist.net/images/logo.gif?alpha
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/gci_91f30755d6a6b787dcc2a4062e6e9824.js
+20:26:55	Warning: 	File not added due to mirror cancel: www-onepick-opensocial.googleusercontent.com/gadgets/js/rpc.js?c
+20:26:55	Warning: 	File not added due to mirror cancel: ssl.gstatic.com/gb/images/a/71060be5b3.png
+20:26:55	Warning: 	File not added due to mirror cancel: ssl.gstatic.com/gb/images/a/e2c0b463b4.png
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.27.17.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/The email is to inform you of your finalsite administrator login. Login Username: grimas Reset password: http://gibdistnet.finalsite.com/admin.cfm?do
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.21.17.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/image1.PNG
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/urgent reply.png
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/Mayhem Tickets 101-200.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/2016-2017RESA HIV AIDS Trainings.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/Mayhem Cabin Raffle.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.6.17.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/AHAHOMEWORKWITHHEART.pdf
+20:26:55	Warning: 	File not added due to mirror cancel: www.gibdist.net/uploaded/Schools/Weiss/EBlast 6 January 2017.pdf
+20:26:57	Warning: 	Found for www.google.com/cse/cse.js?cx=
+20:26:57	Warning: 	Warning moved treated for www.google.com/cse/cse.js?cx= (real one is https://cse.google.com/cse/cse.js?cx=)
+20:26:57	Warning: 	File not added due to mirror cancel: https://cse.google.com/cse/cse.js?cx=
+20:26:57	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/KIMG0177-2.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/KIMG0177-2.jpg/image_preview)
+20:26:57	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/photos/Pat Lancaster at HS AllStar Game.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/photos/Pat Lancaster at HS AllStar Game.jpg/image_preview)
+20:26:58	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/copy-of-IMG951614.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/copy_of_IMG951614.jpg/image_preview)
+20:26:58	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/Kyle Drew.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/all-star-game/Kyle Drew.jpg/image_preview)
+20:26:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:58	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image_preview
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image_preview
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %231.jpg/image_preview
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %232.jpg/image_preview
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:26:59	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Athletics/uc2014 (from www.gibdist.net/athletics/high-school-sports/boys-baseball/spring-trip)
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Athletics/UCinn2013.JPG (from www.gibdist.net/athletics/high-school-sports/boys-baseball/spring-trip)
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Athletics/kings (from www.gibdist.net/athletics/high-school-sports/boys-baseball/spring-trip)
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard2.jpg/image_preview)
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard1.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Howard1.jpg/image_preview)
+20:27:00	Error: 	"Not Found" (404) at link www.gibdist.net/shumate-middle/extra-curricular/Shumate_Middle_School_Anime_Club.pdf (from www.gibdist.net/shumate-middle/extra-curricular/anime-club)
+20:27:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:27:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:27:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:00	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:01	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/
+20:27:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/hunter-elementary
+20:27:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:02	Warning: 	File not added due to mirror cancel: www.gibdist.net/about/district-notices-and-reports/annual-reports
+20:27:02	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/hunter_elementary_school/watch_dogs.pdf (from www.gibdist.net/hunter-elementary/principals-page/clubs/watch-dogs-dads-of-great-students)
+20:27:02	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/feed/atom (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Error: 	"Not Found" (404) at link www.gibdist.net/mail/c/u/0/ (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Warning: 	Moved Permanently for https://www.google.com/a/gibdist.net/images/logo.gif?alpha
+20:27:05	Warning: 	Warning moved treated for https://www.google.com/a/gibdist.net/images/logo.gif?alpha (real one is https://www.google.com/a/cpanel/gibdist.net/images/logo.gif?alpha)
+20:27:05	Warning: 	File not added due to mirror cancel: https://www.google.com/a/cpanel/gibdist.net/images/logo.gif?alpha
+20:27:05	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/gci_91f30755d6a6b787dcc2a4062e6e9824.js (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Warning: 	Moved Permanently for www.gibdist.net/mail/u/$session_index/
+20:27:05	Warning: 	File has moved from www.gibdist.net/mail/u/$session_index/ to http://www.gibdist.net/mail/u/$session-index
+20:27:05	Warning: 	File not added due to mirror cancel: www.gibdist.net/mail/u/$session-index
+20:27:05	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/));return a};Da (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Error: 	"Not Found" (404) at link ssl.gstatic.com/gb/images/a/71060be5b3.png (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Error: 	"Not Found" (404) at link ssl.gstatic.com/gb/images/a/e2c0b463b4.png (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:05	Warning: 	Moved Permanently for www.gibdist.net/_/scs/mail-static/_/js/k=gmail.main.en.IDHbKMvUm0s.O/m=m_i,pdt,t/am=tDiHsCfj_SEOGC1LLTDM_p-fXKoeyDH8up8JB4irgpsB92b_D_k1AAAAAAAAAAAAAAAAAAAAAIA2NRAC/rt=h/d=1/rs=AHGWq9AzL78LGvNMl1FqU9qEi7q3zTIjqg
+20:27:05	Warning: 	File has moved from www.gibdist.net/_/scs/mail-static/_/js/k=gmail.main.en.IDHbKMvUm0s.O/m=m_i,pdt,t/am=tDiHsCfj_SEOGC1LLTDM_p-fXKoeyDH8up8JB4irgpsB92b_D_k1AAAAAAAAAAAAAAAAAAAAAIA2NRAC/rt=h/d=1/rs=AHGWq9AzL78LGvNMl1FqU9qEi7q3zTIjqg to http://www.gibdist.net/-/scs/mail-static/-/js/k=gmail.main.en.IDHbKMvUm0s.O/m=m-i,pdt,t/am=tDiHsCfj-SEOGC1LLTDM-p-fXKoeyDH8up8JB4irgpsB92b-D-k1AAAAAAAAAAAAAAAAAAAAAIA2NRAC/rt=h/d=1/rs=AHGWq9AzL78LGvNMl1FqU9qEi7q3zTIjqg
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.27.17.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/The email is to inform you of your finalsite administrator login. Login Username: grimas Reset password: http://gibdistnet.finalsite.com/admin.cfm?do (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/DIAGNOSTIC.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.21.17.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/image1.PNG (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/urgent reply.png (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/Mayhem Tickets 101-200.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/2016-2017RESA HIV AIDS Trainings.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/Mayhem Cabin Raffle.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/Weiss Staff Newsletter 2.6.17.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/AHAHOMEWORKWITHHEART.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:07	Error: 	"Not Found" (404) at link www.gibdist.net/uploaded/Schools/Weiss/EBlast 6 January 2017.pdf (from www.gibdist.net/uploaded/Schools/Weiss/PTO_Minutes_Nov.html)
+20:27:11	Error: 	"Bad Request" (400) at link https://cse.google.com/cse/cse.js?cx= (from www.gibdist.net/weiss-elementary/pto/pto-minutes-2016-2017)
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn3.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn3.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn3.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn2.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn2.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn2.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1249.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1249.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1249.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1245.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1245.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1245.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1243.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1243.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1243.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_view_fullscreen
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_view_fullscreen to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image-view-fullscreen
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %231.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %231.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall #1.jpg/image-preview
+20:27:11	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall 
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %232.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %232.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall #2.jpg/image-preview
+20:27:11	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/2015-Lindenwood-vs-Montevallo-Baseball-889.jpg/image_preview
+20:27:11	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/2015-Lindenwood-vs-Montevallo-Baseball-889.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/2015-Lindenwood-vs-Montevallo-Baseball-889.jpg/image-preview
+20:27:12	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/pat-lancaster (from www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/pat-lancaster)
+20:27:12	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0230.JPG/image_preview
+20:27:12	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0230.JPG/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG-0230.JPG/image-preview
+20:27:12	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0230.JPG (from www.gibdist.net/athletics/high-school-sports/boys-baseball/college-trail/pat-lancaster)
+20:27:13	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0229.JPG/image_preview
+20:27:13	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0229.JPG/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG-0229.JPG/image-preview
+20:27:13	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane1.jpg/image_preview
+20:27:13	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane1.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane1.jpg/image-preview
+20:27:13	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane3.jpg/image_preview
+20:27:13	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane3.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane3.jpg/image-preview
+20:27:13	Warning: 	Moved Permanently for www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane2.jpg/image_preview
+20:27:13	Warning: 	File has moved from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane2.jpg/image_preview to http://www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane2.jpg/image-preview
+20:27:13	Error: 	"Not Found" (404) at link www.gibdist.net/mail/u/$session-index (from www.gibdist.net/mail/u/$session_index/)
+20:27:13	Error: 	"Not Found" (404) at link www.gibdist.net/-/scs/mail-static/-/js/k=gmail.main.en.IDHbKMvUm0s.O/m=m-i,pdt,t/am=tDiHsCfj-SEOGC1LLTDM-p-fXKoeyDH8up8JB4irgpsB92b-D-k1AAAAAAAAAAAAAAAAAAAAAIA2NRAC/rt=h/d=1/rs=AHGWq9AzL78LGvNMl1FqU9qEi7q3zTIjqg (from www.gibdist.net/_/scs/mail-static/_/js/k=gmail.main.en.IDHbKMvUm0s.O/m=m_i,pdt,t/am=tDiHsCfj_SEOGC1LLTDM_p-fXKoeyDH8up8JB4irgpsB92b_D_k1AAAAAAAAAAAAAAAAAAAAAIA2NRAC/rt=h/d=1/rs=AHGWq9AzL78LGvNMl1FqU9qEi7q3zTIjqg)
+20:27:13	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn4.jpg/image_preview)
+20:27:14	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn3.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn3.jpg/image_preview)
+20:27:14	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn2.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Kohn2.jpg/image_preview)
+20:27:14	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/BB2015.png/image_preview)
+20:27:14	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1249.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1249.jpg/image_preview)
+20:27:15	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1245.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1245.jpg/image_preview)
+20:27:15	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1243.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/johns/DSCF1243.jpg/image_preview)
+20:27:15	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image-view-fullscreen (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_view_fullscreen)
+20:27:16	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Francek.JPG/image_preview)
+20:27:16	Warning: 	File not added due to mirror cancel: www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall 
+20:27:16	Error: 	"mirror stopped by user" (-1) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall  (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Jeremy Bagnall %231.jpg/image_preview)
+20:27:16	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/2015-Lindenwood-vs-Montevallo-Baseball-889.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/2015-Lindenwood-vs-Montevallo-Baseball-889.jpg/image_preview)
+20:27:16	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG-0230.JPG/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0230.JPG/image_preview)
+20:27:16	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG-0229.JPG/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/IMG_0229.JPG/image_preview)
+20:27:17	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane1.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane1.jpg/image_preview)
+20:27:17	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane3.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane3.jpg/image_preview)
+20:27:17	Error: 	"Not Found" (404) at link www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane2.jpg/image-preview (from www.gibdist.net/gibdist/athletics/high-school-sports/spring-season/boys-baseball/college-trail/Shane2.jpg/image_preview)
+
+HTTrack Website Copier/3.48-22 mirror complete in 8 minutes 16 seconds : 1096 links scanned, 813 files written (167700325 bytes overall), 212 files updated [11927636 bytes received at 24047 bytes/sec], 1078699 bytes transferred using HTTP compression in 28 files, ratio 26%, 2.8 requests per connection
+(127 errors, 594 warnings, 0 messages)

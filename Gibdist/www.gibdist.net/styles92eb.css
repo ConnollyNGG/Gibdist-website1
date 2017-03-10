@@ -1,0 +1,49 @@
+
+.fs_style_31, stylename_Callout__Text {visibilty: visible;}
+
+.fs_style_30, stylename_Callout__Text____Left__ {visibility: visible;}
+
+.fs_style_29, stylename_Callout__Text____Right__ {visibility: visible;}
+
+.fs_style_27, stylename_citation {visibility: visible;}
+
+.fs_style_23, stylename_color__button {/* button style */}
+
+.fs_style_19, stylename_enotify_section1 {font-size:30px;
+color:#7F8588;
+font-weight:normal;
+font-family:  Times, Times New Roman, serif;
+text-shadow:0 0 1px #FFFFFF;}
+
+.fs_style_20, stylename_enotify_section2 {font-size:22px;
+color:#7F8588;
+font-weight:normal;
+font-family:  Times, Times New Roman, serif;
+text-shadow:0 0 1px #FFFFFF;}
+
+.fs_style_21, stylename_enotify_section3 {font-size:17px;
+color:#7F8588;
+font-weight:normal;
+font-family: Arial,sans-serif;
+text-shadow:0 0 1px #FFFFFF;}
+
+.fs_style_22, stylename_enotify_section4 {font-size:17px;
+color:#0E2034;
+font-weight:bold;
+font-family: Arial,sans-serif;
+text-shadow:0 0 1px #FFFFFF;}
+
+.fs_style_25, stylename_hollow__button {visibility: viible;}
+
+.fs_style_28, stylename_Image__Float__Left {float: left;
+margin-right: 30px;}
+
+.fs_style_26, stylename_Image__Full__Width {width: 100%;}
+
+.fs_style_24, stylename_lead__in {/* lead in */}
+
+.fs_style_34, stylename_News__Image__Caption {visibility:visible;}
+
+.fs_style_33, stylename_Table__W__O__Header {visibility: visible;}
+
+.fs_style_32, stylename_Table__With__Header {visibility: visible;}
